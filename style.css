@@ -1,0 +1,13 @@
+#map {
+    background-color: #36ae5a;
+}
+.leaflet-marker-icon {
+    filter: hue-rotate(120deg);
+}
+.leaflet-popup-content {
+    font-size: 16px;
+    color: #13a5d1;
+}
+#map {
+    border: 1px solid #a85e5e;
+}
